@@ -1,0 +1,42 @@
+.col-md-6 { 
+	text-align: right; 
+	width: 50 px;
+	font-family: 'Playfair Display', serif;
+}
+
+p { 
+	text-align: right;
+	font-size: 20px;
+	font-family: 'Playfair Display', serif;
+}
+
+h1 {
+	text-align: right;
+	font-size: 30px; 
+	font-family: 'Playfair Display', serif;
+}
+
+.container {
+	width: 67%%;
+	margin-left: 15%;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+hr {
+  	border: solid #ddd;
+	border-width: 3px 0 0;
+	clear: both;
+	margin: 1.21em 0 1.1875em;
+	height: 0;
+	margin-left: 15px;
+    margin-right: 15px;
+}
+
+h2 {
+	font-family: 'Playfair Display', serif;
+	margin-left: 11px;
+ }
